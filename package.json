@@ -1,0 +1,19 @@
+{
+  "name": "canitacothis",
+  "version": "1.0.0",
+  "description": "Can I Taco This?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtcrutch/canitacothis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtcrutch/canitacothis/issues"
+  },
+  "homepage": "https://github.com/mtcrutch/canitacothis"
+}
