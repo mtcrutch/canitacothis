@@ -12,7 +12,7 @@
     var Taco;
 
     function handleGreeting() {
-        var greetings = ['Yes', 'Si'];
+        var greetings = ['Yes', 'Si', 'OF COURSE', 'Claro', 'Yes, but should you?'];
         return greetings[Math.floor(Math.random() * greetings.length)];
     }
 
